@@ -6,5 +6,13 @@
     {
         "package": "mirai",
         "url": "https://github.com/shikokuchuo/mirai"
+    },
+    {
+        "package": "crew",
+        "url": "https://github.com/wlandau/crew"
+    },
+    {
+        "package": "crew.cluster",
+        "url": "https://github.com/wlandau/crew.cluster"
     }
 ]
