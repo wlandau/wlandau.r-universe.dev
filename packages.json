@@ -1,27 +1,22 @@
 [
     {
         "package": "nanonext",
-        "url": "https://github.com/shikokuchuo/nanonext",
-        "branch": "*release"
+        "url": "https://github.com/shikokuchuo/nanonext"
     },
     {
         "package": "mirai",
-        "url": "https://github.com/shikokuchuo/mirai",
-        "branch": "*release"
+        "url": "https://github.com/shikokuchuo/mirai"
     },
     {
         "package": "crew",
-        "url": "https://github.com/wlandau/crew",
-        "branch": "*release"
+        "url": "https://github.com/wlandau/crew"
     },
     {
         "package": "crew.aws.batch",
-        "url": "https://github.com/wlandau/crew.aws.batch",
-        "branch": "*release"
+        "url": "https://github.com/wlandau/crew.aws.batch"
     },
     {
         "package": "crew.cluster",
-        "url": "https://github.com/wlandau/crew.cluster",
-        "branch": "*release"
+        "url": "https://github.com/wlandau/crew.cluster"
     }
 ]
