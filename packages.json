@@ -8,6 +8,10 @@
         "url": "https://github.com/shikokuchuo/mirai"
     },
     {
+        "package": "autometric",
+        "url": "https://github.com/wlandau/autometric"
+    },
+    {
         "package": "crew",
         "url": "https://github.com/wlandau/crew"
     },
