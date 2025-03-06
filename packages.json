@@ -22,5 +22,14 @@
     {
         "package": "crew.cluster",
         "url": "https://github.com/wlandau/crew.cluster"
+    },
+    {
+        "package": "proffer",
+        "url": "https://github.com/r-prof/proffer",
+        "branch": "test-universe"
+    },
+    {
+        "package": "withr",
+        "url": "https://github.com/r-lib/withr"
     }
 ]
