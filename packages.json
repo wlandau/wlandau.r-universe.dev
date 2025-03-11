@@ -22,9 +22,5 @@
     {
         "package": "crew.cluster",
         "url": "https://github.com/wlandau/crew.cluster"
-    },
-    {
-        "package": "multitools",
-        "url": "https://github.com/wlandau/multitools"
     }
 ]
