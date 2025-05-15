@@ -25,7 +25,8 @@
     },
     {
         "package": "targets",
-        "url": "https://github.com/ropensci/targets"
+        "url": "https://github.com/ropensci/targets",
+        "branch": "*release"
     },
     {
         "package": "tarchetypes",
