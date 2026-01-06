@@ -31,5 +31,10 @@
     {
         "package": "tarchetypes",
         "url": "https://github.com/ropensci/tarchetypes"
+    },
+    {
+        "package": "test",
+        "url": "https://codeberg.org/wlandau/test",
+        "branch": "*release"
     }
 ]
