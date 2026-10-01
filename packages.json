@@ -36,5 +36,9 @@
         "package": "test",
         "url": "https://codeberg.org/wlandau/test",
         "branch": "*release"
+    },
+    {
+        "package": "retroglyph",
+        "url": "https://github.com/wlandau/retroglyph"
     }
 ]
